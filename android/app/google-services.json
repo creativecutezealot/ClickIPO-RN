@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "747968395609",
+    "firebase_url": "https://clickipo-app.firebaseio.com",
+    "project_id": "clickipo-app",
+    "storage_bucket": "clickipo-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747968395609:android:239064db12030c34",
+        "android_client_info": {
+          "package_name": "com.clickipo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747968395609-hu2uojarte8mvb51malqhcbj7oktqmr7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNgosXC_cgs60Gee59BNtv9M9keHnYaG8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747968395609:android:68e2a63ff9ea3126",
+        "android_client_info": {
+          "package_name": "com.clickipo.clickipo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747968395609-hu2uojarte8mvb51malqhcbj7oktqmr7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNgosXC_cgs60Gee59BNtv9M9keHnYaG8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

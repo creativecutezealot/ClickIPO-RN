@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ClickIPO</string>
+	<string name="intercom_gcm_sender_id">365778517706</string>
+    <string name="facebook_app_id">329027087514573</string>
+</resources>

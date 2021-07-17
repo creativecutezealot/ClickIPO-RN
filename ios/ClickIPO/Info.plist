@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BugsnagAPIKey</key>
+	<string>9fef053c182466fa98d7e69cf557aa33</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>ClickIPO</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.clickipo.$(PRODUCT_NAME:rfc1034identifier)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>$(PRODUCT_NAME)</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.7.1</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string>facebook</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>fb329027087514573</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string>clickipo</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>clickipo</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string>io.branch.sdk</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>clickipo</string>
+			</array>
+		</dict>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>FacebookAppID</key>
+	<string>329027087514573</string>
+	<key>FacebookDisplayName</key>
+	<string>ClickIPO</string>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>fbapi</string>
+		<string>fb-messenger-api</string>
+		<string>fbauth2</string>
+		<string>fbshareextension</string>
+	</array>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSExceptionDomains</key>
+		<dict>
+			<key>localhost</key>
+			<dict>
+				<key>NSExceptionAllowsInsecureHTTPLoads</key>
+				<true/>
+			</dict>
+			<key>tradier.com</key>
+			<dict>
+				<key>NSAllowsArbitraryLoads</key>
+				<true/>
+				<key>NSExceptionRequiresForwardSecrecy</key>
+				<false/>
+				<key>NSIncludesSubdomains</key>
+				<true/>
+			</dict>
+		</dict>
+	</dict>
+	<key>NSFaceIDUsageDescription</key>
+	<string>Use Biometrics to log into the app</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>To accurately deliver communications based on time-zone</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>To accurately deliver communications based on time-zone</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>human-readable reason for photo access</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Entypo.ttf</string>
+		<string>EvilIcons.ttf</string>
+		<string>FontAwesome.ttf</string>
+		<string>Foundation.ttf</string>
+		<string>Ionicons.ttf</string>
+		<string>MaterialCommunityIcons.ttf</string>
+		<string>MaterialIcons.ttf</string>
+		<string>Octicons.ttf</string>
+		<string>SimpleLineIcons.ttf</string>
+		<string>Zocial.ttf</string>
+		<string>SourceSansPro-Bold.ttf</string>
+		<string>SourceSansPro-It.ttf</string>
+		<string>SourceSansPro-Light.ttf</string>
+		<string>SourceSansPro-Regular.ttf</string>
+		<string>Andale Mono.ttf</string>
+		<string>Arial Black.ttf</string>
+		<string>Arial.ttf</string>
+		<string>Comic Sans MS.ttf</string>
+		<string>Courier New.ttf</string>
+		<string>Georgia.ttf</string>
+		<string>Microsoft Sans Serif.ttf</string>
+		<string>Roboto_medium.ttf</string>
+		<string>Roboto.ttf</string>
+		<string>rubicon-icon-font.ttf</string>
+		<string>Rubik-Black.ttf</string>
+		<string>Rubik-BlackItalic.ttf</string>
+		<string>Rubik-Bold.ttf</string>
+		<string>Rubik-BoldItalic.ttf</string>
+		<string>Rubik-Italic.ttf</string>
+		<string>Rubik-Light.ttf</string>
+		<string>Rubik-LightItalic.ttf</string>
+		<string>Rubik-Medium.ttf</string>
+		<string>Rubik-MediumItalic.ttf</string>
+		<string>Rubik-Regular.ttf</string>
+		<string>SanFrancisco.ttf</string>
+		<string>SanFranciscoBold.ttf</string>
+		<string>SanFranciscoThin.ttf</string>
+		<string>SF-UI-Text-Regular.otf</string>
+		<string>Skia.ttf</string>
+		<string>Times New Roman.ttf</string>
+		<string>Chivo-Regular.ttf</string>
+		<string>SourceSansPro-Black.ttf</string>
+		<string>clickipo.ttf</string>
+		<string>Chivo-Bold.ttf</string>
+	</array>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>remote-notification</string>
+	</array>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>armv7</string>
+	</array>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+	<key>URL Types</key>
+	<array>
+		<dict>
+			<key>URL Schemes</key>
+			<array>
+				<string>clickipo</string>
+			</array>
+		</dict>
+	</array>
+	<key>branch_app_domain</key>
+	<string>clickipo.app.link</string>
+	<key>branch_key</key>
+	<string>key_live_idvsBSSHt7bynxkuc701FpoasweO905s</string>
+</dict>
+</plist>

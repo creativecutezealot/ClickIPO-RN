@@ -1,0 +1,371 @@
+[
+  {
+    "id": "d4677155-ee11-4e2b-bc40-a851c63c0b0d",
+    "name": "Snapchat",
+    "description": "Greatest social media ever",
+    "status": "draft",
+    "ticker_symbol": "SNAP",
+    "offering_price_attributes": {
+      "id": "f122e669-88cf-4608-a120-09ced70494f4",
+      "min_price": 22,
+      "max_price": 24,
+      "updated_at": "2017-03-02T22:29:37.205Z"
+    },
+    "offering_date_attributes": {
+      "id": "e457d708-7ab5-456b-9354-18338625cee5",
+      "max_date": "2017-03-02",
+      "updated_at": "2017-03-02T22:29:37.207Z"
+    },
+    "offering_share_attributes": {
+      "id": "c57eba6b-9d43-4a3f-b694-496f0ee71e49",
+      "anticipated_shares": 100000000,
+      "updated_at": "2017-03-02T22:29:37.209Z"
+    },
+    "category_ids": [
+      "c433bb6d-407e-4576-b2e2-5c2e0c156d3c"
+    ],
+    "categories": [
+      {
+        "id": "c433bb6d-407e-4576-b2e2-5c2e0c156d3c",
+        "name": "Technology",
+        "description": null
+      }
+    ],
+    "effective_date": null,
+    "final_price": null,
+    "final_shares": null,
+    "logo_medium": "//stagingcdn.clickipo.com/offerings/logos/d46/771/55-/medium/1488493777-snap.png?1488493777",
+    "logo_large": "//stagingcdn.clickipo.com/offerings/logos/d46/771/55-/large/1488493777-snap.png?1488493777",
+    "prospectus_url": "http://snapchat.com",
+    "created_at": "2017-03-02T22:29:37.203Z",
+    "updated_at": "2017-03-02T22:29:37.491Z"
+  },
+  {
+    "id": "86f857bc-f46b-451e-aeeb-03acc36d4e8b",
+    "name": "Uber",
+    "description": null,
+    "status": "draft",
+    "ticker_symbol": "UBER",
+    "offering_price_attributes": {
+      "id": "5fde322f-e7d4-435a-bad5-bc25b2203b85",
+      "min_price": 50,
+      "max_price": 60,
+      "updated_at": "2017-03-02T22:08:52.222Z"
+    },
+    "offering_date_attributes": {
+      "id": "23ee72d2-2fee-4a98-85b5-69fe34ebb1e3",
+      "max_date": "2017-05-23",
+      "updated_at": "2017-03-02T22:08:52.225Z"
+    },
+    "offering_share_attributes": {
+      "id": "610b1747-b0cc-4309-a8e0-5e03e5a23827",
+      "anticipated_shares": 10000000,
+      "updated_at": "2017-03-02T22:08:52.227Z"
+    },
+    "category_ids": [
+      "c433bb6d-407e-4576-b2e2-5c2e0c156d3c"
+    ],
+    "categories": [
+      {
+        "id": "c433bb6d-407e-4576-b2e2-5c2e0c156d3c",
+        "name": "Technology",
+        "description": null
+      }
+    ],
+    "effective_date": null,
+    "final_price": null,
+    "final_shares": null,
+    "logo_medium": "//stagingcdn.clickipo.com/offerings/logos/86f/857/bc-/medium/1488492532-uber.jpg?1488492532",
+    "logo_large": "//stagingcdn.clickipo.com/offerings/logos/86f/857/bc-/large/1488492532-uber.jpg?1488492532",
+    "prospectus_url": "http://uber.com",
+    "created_at": "2017-03-02T22:08:52.198Z",
+    "updated_at": "2017-03-02T22:08:52.651Z"
+  },
+  {
+    "id": "27051d12-c518-4639-9968-0386bd9f1b08",
+    "name": "hkhhj",
+    "description": null,
+    "status": "draft",
+    "ticker_symbol": "jhjh",
+    "offering_price_attributes": {
+      "id": "da38b508-901a-4c6a-89f7-96ff162b8267",
+      "min_price": 5.99,
+      "max_price": 87.99,
+      "updated_at": "2017-03-02T04:12:56.848Z"
+    },
+    "offering_date_attributes": {
+      "id": "9d7e4461-30c7-4247-b50e-e27f93d67189",
+      "max_date": "2017-05-12",
+      "updated_at": "2017-03-02T04:12:56.850Z"
+    },
+    "offering_share_attributes": {
+      "id": "df5749c4-314c-489b-9a5d-efd160f12dbf",
+      "anticipated_shares": 54546,
+      "updated_at": "2017-03-02T04:12:56.853Z"
+    },
+    "category_ids": [
+      "4f3b780e-4c1e-407e-8edc-c793d4c79132",
+      "a7b3e19d-5513-40c1-a1b9-c67a3cbd71af",
+      "67ee1877-3489-4df2-9b22-2a2a351cd761"
+    ],
+    "categories": [
+      {
+        "id": "4f3b780e-4c1e-407e-8edc-c793d4c79132",
+        "name": "Basic Materials",
+        "description": null
+      },
+      {
+        "id": "a7b3e19d-5513-40c1-a1b9-c67a3cbd71af",
+        "name": "Financial",
+        "description": null
+      },
+      {
+        "id": "67ee1877-3489-4df2-9b22-2a2a351cd761",
+        "name": "Health Care",
+        "description": null
+      }
+    ],
+    "effective_date": null,
+    "final_price": null,
+    "final_shares": null,
+    "logo_medium": "//stagingcdn.clickipo.com/offerings/logos/270/51d/12-/medium/1488427977-reece.JPG?1488427977",
+    "logo_large": "//stagingcdn.clickipo.com/offerings/logos/270/51d/12-/large/1488427977-reece.JPG?1488427977",
+    "prospectus_url": "kmlkkk",
+    "created_at": "2017-03-02T04:12:56.846Z",
+    "updated_at": "2017-03-02T04:12:57.288Z"
+  },
+  {
+    "id": "1123bce8-4e14-48d4-ba9a-7bf8f8e7ea13",
+    "name": "Vann Inc",
+    "description": "test description",
+    "status": "draft",
+    "ticker_symbol": "VGGI",
+    "offering_price_attributes": {
+      "id": "87e9165a-3ba9-4370-a422-1495fdc72182",
+      "min_price": 5.95,
+      "max_price": 19.99,
+      "updated_at": "2017-03-02T03:22:11.091Z"
+    },
+    "offering_date_attributes": {
+      "id": "29cc1b6d-6215-4c83-8208-430d1d5ca379",
+      "max_date": "2017-05-31",
+      "updated_at": "2017-03-02T03:22:11.093Z"
+    },
+    "offering_share_attributes": {
+      "id": "35d3b77b-5dee-4d82-b4c4-04f00bc0580f",
+      "anticipated_shares": 100000,
+      "updated_at": "2017-03-02T03:22:11.095Z"
+    },
+    "category_ids": [
+      "4f3b780e-4c1e-407e-8edc-c793d4c79132",
+      "4005db61-4fc8-4163-9603-778c8876f350",
+      "a7b3e19d-5513-40c1-a1b9-c67a3cbd71af"
+    ],
+    "categories": [
+      {
+        "id": "4f3b780e-4c1e-407e-8edc-c793d4c79132",
+        "name": "Basic Materials",
+        "description": null
+      },
+      {
+        "id": "4005db61-4fc8-4163-9603-778c8876f350",
+        "name": "Consumer Goods",
+        "description": null
+      },
+      {
+        "id": "a7b3e19d-5513-40c1-a1b9-c67a3cbd71af",
+        "name": "Financial",
+        "description": null
+      }
+    ],
+    "effective_date": null,
+    "final_price": null,
+    "final_shares": null,
+    "logo_medium": "//clickipostaging.s3.amazonaws.com/assets/default_logo_medium.jpg",
+    "logo_large": "//clickipostaging.s3.amazonaws.com/assets/default_logo_large.jpg",
+    "prospectus_url": "http://test.com",
+    "created_at": "2017-03-02T03:22:11.080Z",
+    "updated_at": "2017-03-02T03:22:11.080Z"
+  },
+  {
+    "id": "077166f4-3873-457f-98c2-75aeff82586e",
+    "name": "Lyft",
+    "description": "Comp to Uber",
+    "status": "draft",
+    "ticker_symbol": "LFT",
+    "offering_price_attributes": {
+      "id": "7f4dc4e5-aec9-4ff5-bdf3-6ad6d04abf91",
+      "min_price": 50,
+      "max_price": 60,
+      "updated_at": "2017-03-01T16:49:00.643Z"
+    },
+    "offering_date_attributes": {
+      "id": "748ee8c5-c655-4c24-9d14-b1037cc3608b",
+      "max_date": "2017-10-10",
+      "updated_at": "2017-03-01T16:49:00.645Z"
+    },
+    "offering_share_attributes": {
+      "id": "057591be-9cf0-4d78-9f5b-b0c7be4842c8",
+      "anticipated_shares": 100000,
+      "updated_at": "2017-03-01T16:49:00.647Z"
+    },
+    "category_ids": [
+      "af2cb72b-9fd1-464d-a90d-cfd106a9a0d0"
+    ],
+    "categories": [
+      {
+        "id": "af2cb72b-9fd1-464d-a90d-cfd106a9a0d0",
+        "name": "Services",
+        "description": null
+      }
+    ],
+    "effective_date": null,
+    "final_price": null,
+    "final_shares": null,
+    "logo_medium": "//clickipostaging.s3.amazonaws.com/assets/default_logo_medium.jpg",
+    "logo_large": "//clickipostaging.s3.amazonaws.com/assets/default_logo_large.jpg",
+    "prospectus_url": null,
+    "created_at": "2017-03-01T16:49:00.641Z",
+    "updated_at": "2017-03-01T16:49:00.641Z"
+  },
+  {
+    "id": "28b24d2e-e14c-41f7-bd38-2e650976337a",
+    "name": "Uber",
+    "description": null,
+    "status": "draft",
+    "ticker_symbol": "UBER",
+    "offering_price_attributes": {
+      "id": "2c0f42c0-4fb7-4930-90df-bf33558e0caa",
+      "min_price": 20,
+      "max_price": 30,
+      "updated_at": "2017-03-01T16:26:33.590Z"
+    },
+    "offering_date_attributes": {
+      "id": "1f912721-f41a-46b9-a211-08e6a13f8e0c",
+      "max_date": "2017-10-10",
+      "updated_at": "2017-03-01T16:26:33.593Z"
+    },
+    "offering_share_attributes": {
+      "id": "0c1d8e35-201f-47a6-a7f4-fce520c18136",
+      "anticipated_shares": 2000000,
+      "updated_at": "2017-03-01T16:26:33.595Z"
+    },
+    "category_ids": [
+      "31fca08a-88f3-439d-9126-398349e50d05"
+    ],
+    "categories": [
+      {
+        "id": "31fca08a-88f3-439d-9126-398349e50d05",
+        "name": "Industrial Goods",
+        "description": null
+      }
+    ],
+    "effective_date": null,
+    "final_price": null,
+    "final_shares": null,
+    "logo_medium": "//clickipostaging.s3.amazonaws.com/assets/default_logo_medium.jpg",
+    "logo_large": "//clickipostaging.s3.amazonaws.com/assets/default_logo_large.jpg",
+    "prospectus_url": null,
+    "created_at": "2017-03-01T16:26:33.556Z",
+    "updated_at": "2017-03-01T16:26:33.556Z"
+  },
+  {
+    "id": "157b2d79-ff92-4e75-9645-ea7f8d65b14b",
+    "name": "Snap, Inc",
+    "description": "Test desc",
+    "status": "draft",
+    "ticker_symbol": "SNAP",
+    "offering_price_attributes": {
+      "id": "717add6a-a9e1-484d-81bd-78e2e89f1bde",
+      "min_price": 10,
+      "max_price": 0,
+      "updated_at": "2017-03-01T02:17:09.464Z"
+    },
+    "offering_date_attributes": {
+      "id": "efe69ea8-b7bc-4d72-bcaf-44b58f0767ce",
+      "max_date": null,
+      "updated_at": "2017-03-01T02:17:09.466Z"
+    },
+    "offering_share_attributes": {
+      "id": "cc211ae8-f09b-478c-8080-c325441a909a",
+      "anticipated_shares": 100,
+      "updated_at": "2017-03-01T02:17:09.468Z"
+    },
+    "category_ids": [],
+    "categories": [],
+    "effective_date": null,
+    "final_price": null,
+    "final_shares": null,
+    "logo_medium": "//clickipostaging.s3.amazonaws.com/assets/default_logo_medium.jpg",
+    "logo_large": "//clickipostaging.s3.amazonaws.com/assets/default_logo_large.jpg",
+    "prospectus_url": null,
+    "created_at": "2017-03-01T02:17:09.429Z",
+    "updated_at": "2017-03-01T02:17:09.429Z"
+  },
+  {
+    "id": "a88d6468-63c4-4c85-bb19-ef9cc6c2de2d",
+    "name": "Slack",
+    "description": "test",
+    "status": "draft",
+    "ticker_symbol": null,
+    "offering_price_attributes": {
+      "id": "1aac3a3c-d5c5-4d90-9349-693e48fbd5a1",
+      "min_price": 25,
+      "max_price": 35,
+      "updated_at": "2017-02-28T22:54:04.092Z"
+    },
+    "offering_date_attributes": {
+      "id": "8c412efc-4a5e-440b-b127-5bcc223e16dc",
+      "max_date": "2017-10-10",
+      "updated_at": "2017-02-28T22:54:04.095Z"
+    },
+    "offering_share_attributes": {
+      "id": "9226cf13-662e-4aff-82bf-ef1a69284a8a",
+      "anticipated_shares": 100000,
+      "updated_at": "2017-02-28T22:54:04.097Z"
+    },
+    "category_ids": [],
+    "categories": [],
+    "effective_date": null,
+    "final_price": null,
+    "final_shares": null,
+    "logo_medium": "//clickipostaging.s3.amazonaws.com/assets/default_logo_medium.jpg",
+    "logo_large": "//clickipostaging.s3.amazonaws.com/assets/default_logo_large.jpg",
+    "prospectus_url": null,
+    "created_at": "2017-02-28T22:54:04.090Z",
+    "updated_at": "2017-02-28T22:54:04.090Z"
+  },
+  {
+    "id": "7cc81462-063a-4fa5-95bb-5975b81a9d00",
+    "name": "Mutiny, Inc",
+    "description": "Great tech company",
+    "status": "draft",
+    "ticker_symbol": null,
+    "offering_price_attributes": {
+      "id": "877b4452-8ed6-4034-ae3d-656543210145",
+      "min_price": 50,
+      "max_price": 100,
+      "updated_at": "2017-02-28T21:33:47.304Z"
+    },
+    "offering_date_attributes": {
+      "id": "68a91860-70c7-4248-acb2-7ecc0f35348a",
+      "max_date": "2001-01-01",
+      "updated_at": "2017-02-28T21:33:47.306Z"
+    },
+    "offering_share_attributes": {
+      "id": "1bca47f9-4363-486e-9f0c-01f86385fbcb",
+      "anticipated_shares": 1000000,
+      "updated_at": "2017-02-28T21:33:47.308Z"
+    },
+    "category_ids": [],
+    "categories": [],
+    "effective_date": null,
+    "final_price": null,
+    "final_shares": null,
+    "logo_medium": "//clickipostaging.s3.amazonaws.com/assets/default_logo_medium.jpg",
+    "logo_large": "//clickipostaging.s3.amazonaws.com/assets/default_logo_large.jpg",
+    "prospectus_url": null,
+    "created_at": "2017-02-28T21:33:47.282Z",
+    "updated_at": "2017-02-28T21:33:47.282Z"
+  }
+]
